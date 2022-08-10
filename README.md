@@ -33,3 +33,6 @@ This project is a basic UI webpage which is created by using HTML and CSS. It's 
 
 # Thumbnail
 
+![Thumbnail](https://user-images.githubusercontent.com/109421054/183822041-17331c63-055c-4c4b-96af-4aab1276010b.PNG)
+
+
